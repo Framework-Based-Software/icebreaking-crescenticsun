@@ -7,5 +7,5 @@ I am a beginner in software development, I look forward to learn from you all.
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [https://github.com/zikriharis]
+You can view my personalized GitHub profile: https://github.com/zikriharis
 

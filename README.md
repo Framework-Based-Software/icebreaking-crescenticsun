@@ -3,7 +3,7 @@
 Hi! I'm Zikri, a student in the Framework-Based Software Design and Development course. 
 I am a beginner in software development, I look forward to learn from you all.
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+![My Image](image.jpg)  <!-- https://github.com/Framework-Based-Software/icebreaking-crescenticsun/blob/profile-upload/IMG-20240527-WA0118.jpg -->
 
 ## GitHub Profile
 
